@@ -1,5 +1,7 @@
 import nltk
+from nltk import FreqDist
 
+#File opening and reading code.
 fantasyfile = "FICTION-fantasy.txt"
 scififile = "FICTION-sci-fi.txt"
 thrillerfile = "FICTION-thriller.txt"
@@ -17,12 +19,10 @@ lengthA = len(groupA)
 lengthB = len(groupB)
 lengthC = len(groupC)
 
-<<<<<<< Updated upstream
 # Question 1: Length of subgenre 
 print(lengthA)
 print(lengthB)
 print(lengthC)
-=======
 # Print the length of each subgenre
 print("Length of Group A:", lengthA)
 print("Length of Group B:", lengthB)
@@ -57,4 +57,3 @@ print("The 10 most common words and their count are:", fdistB.most_common(10))
 print("The 10 most common words and their count are:", fdistC.most_common(10))
 
 #Question 4
->>>>>>> Stashed changes
