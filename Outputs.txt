@@ -1,0 +1,15 @@
+Question 1 - The length (in words):
+Length of Group A: 44817
+Length of Group B: 27376
+Length of Group C: 28268
+
+Question 2 - The lexical diversity:
+Lexical diversity Group A: 0.003196459306614212
+Lexical diversity Group B: 0.0050358318806895215
+Lexical diversity Group C: 0.005013927576601671
+
+Question 3 - Top 10 most frequnt words and their counts:
+The 10 most common words and their count for Group A are: [('the', 382), ('he', 225), ('a', 201), ('and', 181), ('to', 157), ('was', 154), ('his', 131), ('of', 117), ('it', 112), ('in', 111)]
+The 10 most common words and their count for Group B are: [('the', 314), ('to', 178), ('i', 140), ('of', 131), ('a', 124), ('and', 99), ('in', 84), ('it', 72), ('my', 54), ('for', 54)]
+The 10 most common words and their count for Group C are: [('the', 303), ('i', 244), ('and', 143), ('a', 140), ('to', 134), ('of', 120), ('in', 90), ('my', 75), ('on', 64), ('it', 61)]
+

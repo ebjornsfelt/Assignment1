@@ -57,9 +57,9 @@ fdistA = FreqDist(wordsAnonunique)
 fdistB = FreqDist(wordsBnonunique)
 fdistC = FreqDist(wordsCnonunique)
 
-print("The 10 most common words and their count are:", fdistA.most_common(10))
-print("The 10 most common words and their count are:", fdistB.most_common(10))
-print("The 10 most common words and their count are:", fdistC.most_common(10))
+print("The 10 most common words and their count for Group A are:", fdistA.most_common(10))
+print("The 10 most common words and their count for Group B are:", fdistB.most_common(10))
+print("The 10 most common words and their count for Group C are:", fdistC.most_common(10))
 
 #Question 4
 total_count_all = 0  # count for total
